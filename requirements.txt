@@ -1,0 +1,20 @@
+# 文件和目录监控
+watchdog==3.0.0
+
+# 日志
+logging
+
+# Milvus 客户端
+pymilvus==2.2.12
+
+# 请求库
+requests==2.31.0
+
+# 处理 Word 文档
+python-docx==0.8.11
+
+# 处理 PDF 文件
+PyPDF2==3.0.1
+
+# 数据验证与模型管理
+pydantic==2.1.1
